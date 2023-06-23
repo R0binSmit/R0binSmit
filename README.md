@@ -10,20 +10,6 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 ## Hard skills
 
 ### Programming languages
-<table style="border: none!important;">
-   <thead>
-      <tr>
-         <th style="border: none!important;"></th>
-         <th style="border: none!important;">Experience</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td style="border: none!important;">C#</td>
-         <td style="border: none!important;">⭐⭐⭐⭐🌑</td>
-      </tr>
-   </tbody>
-</table>
 |                |Experience                      |
 |----------------|--------------------------------|
 |C#              |⭐⭐⭐⭐🌑                   |
