@@ -33,3 +33,8 @@ UiPath Activities<br />
 
 ### Architectures
 Web API's, MVC, MVVM, RESTful
+
+## Soft skills
+* Experience in agile and classic development processes
+* Dedicated curious type
+* Direct communication tailored to the target group
