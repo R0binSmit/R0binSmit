@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 ## About me 😁
 Hey there 🙌! I'm an ambitious full-stack software developer based in Germany 🍺.
 From a young age, I possessed a profound fascination for technology and delving into the inner workings of computers.
