@@ -6,3 +6,29 @@ Seven years ago, I transformed my hobby into a profession, embarking on a fulfil
 
 Throughout my career, I've gathered a wealth of experience in various technologies, constantly expanding my skill set.
 Despite the passage of time, my passion for computer technology remains unwavering, driving me to continuously explore new horizons in this ever-evolvin field 💪.
+
+## Hard skills
+
+### Programming languages
+|                |Experience                      |
+|----------------|--------------------------------|
+|C#              |⭐⭐⭐⭐🌑                   |
+|JavaScript      |⭐⭐⭐⭐🌑                   |
+|PHP             |⭐⭐⭐🌑🌑                   |
+|TypeScript      |⭐⭐⭐🌑🌑                   |
+|Python          |⭐🌑🌑🌑🌑                   |
+
+### Other technics
+HTML, CSS, XML, JSON
+MSSQL, Oracle
+Docker, iCal, Web APIs
+UiPath (Robotic Process Automation)
+Git, GitLab, Team Foundation Server
+
+### Frameworks
+ASP .Net Core, WPF, Windows Forms
+Angular, ExtJs, Symfony
+UiPath Activities
+
+### Architectures
+Web API's, MVC, MVVM, RESTful
