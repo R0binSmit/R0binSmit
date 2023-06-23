@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 ## About me 😁
 Hey there 🙌! I'm an ambitious full-stack software developer based in Germany 🍺.
 From a young age, I possessed a profound fascination for technology and delving into the inner workings of computers.
@@ -16,6 +10,20 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 ## Hard skills
 
 ### Programming languages
+<table>
+   <thead>
+      <tr>
+         <th></th>
+         <th>Experience</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>C#</td>
+         <td>⭐⭐⭐⭐🌑</td>
+      </tr>
+   </tbody>
+</table>
 |                |Experience                      |
 |----------------|--------------------------------|
 |C#              |⭐⭐⭐⭐🌑                   |
