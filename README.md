@@ -41,3 +41,4 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R0binSmit&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R0binSmit&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R0binSmit&theme=city_lights)
