@@ -11,25 +11,25 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 
 ### Programming languages
 <div style="display: inline-block">
-  <div>a</div>
-  <div>b</div>
+  <div>
+    |                |Experience                      |
+    |----------------|--------------------------------|
+    |C#              |⭐⭐⭐⭐🌑                   |
+    |JavaScript      |⭐⭐⭐⭐🌑                   |
+    |PHP             |⭐⭐⭐🌑🌑                   |
+    |TypeScript      |⭐⭐⭐🌑🌑                   |
+    |Java            |⭐⭐🌑🌑🌑                   |
+    |Python          |⭐🌑🌑🌑🌑                   |
+  </div>
+  <div>
+    ### Other technics
+    HTML, CSS, XML, JSON<br />
+    MSSQL, Oracle<br />
+    Docker, iCal, Web APIs<br />
+    UiPath (Robotic Process Automation)<br />
+    Git, GitLab, Team Foundation Server<br />
+  </div>
 </div>
-
-|                |Experience                      |
-|----------------|--------------------------------|
-|C#              |⭐⭐⭐⭐🌑                   |
-|JavaScript      |⭐⭐⭐⭐🌑                   |
-|PHP             |⭐⭐⭐🌑🌑                   |
-|TypeScript      |⭐⭐⭐🌑🌑                   |
-|Java            |⭐⭐🌑🌑🌑                   |
-|Python          |⭐🌑🌑🌑🌑                   |
-
-### Other technics
-HTML, CSS, XML, JSON<br />
-MSSQL, Oracle<br />
-Docker, iCal, Web APIs<br />
-UiPath (Robotic Process Automation)<br />
-Git, GitLab, Team Foundation Server<br />
 
 ### Frameworks
 ASP .Net Core, WPF, Windows Forms<br />
