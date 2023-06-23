@@ -16,6 +16,7 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 |JavaScript      |⭐⭐⭐⭐🌑                   |
 |PHP             |⭐⭐⭐🌑🌑                   |
 |TypeScript      |⭐⭐⭐🌑🌑                   |
+|Java            |⭐⭐🌑🌑🌑                   |
 |Python          |⭐🌑🌑🌑🌑                   |
 
 ### Other technics
