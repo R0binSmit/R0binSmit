@@ -12,7 +12,7 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 ### Programming languages
 |                |Experience                      |
 |----------------|--------------------------------|
-|![Csharp](https://img.shields.io/badge/-C%23-bd93f9?style=flat&logo=csharp&color=#rgb(155,79,151))             |⭐⭐⭐⭐🌑                   |
+|![Csharp](https://img.shields.io/badge/-C%23-bd93f9?style=flat&logo=csharp&color=rgb(92,107,192))             |⭐⭐⭐⭐🌑                   |
 |![JavaScript](https://img.shields.io/badge/-JavaScript-bd93f9?style=flat&logo=javascript&color=rgb(228,161,38))      |⭐⭐⭐⭐🌑                   |
 |![PHP](https://img.shields.io/badge/-PHP-bd93f9?style=flat&logo=PHP&color=rgb(147,170,238))             |⭐⭐⭐🌑🌑                   |
 |![TypeScript](https://img.shields.io/badge/-TypeScript-bd93f9?style=flat&logo=typescript&color=white)      |⭐⭐⭐🌑🌑                   |
