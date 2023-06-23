@@ -40,3 +40,4 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 * Direct communication tailored to the target group
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R0binSmit&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R0binSmit&theme=city_lights)
