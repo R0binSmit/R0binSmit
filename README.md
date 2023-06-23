@@ -20,19 +20,19 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 |Python          |⭐🌑🌑🌑🌑                   |
 
 ### Other technics
-HTML, CSS, XML, JSON<br />
-MSSQL, Oracle<br />
-Docker, iCal, Web APIs<br />
-UiPath (Robotic Process Automation)<br />
-Git, GitLab, Team Foundation Server<br />
+* HTML, CSS, XML, JSON
+* MSSQL, Oracle
+* Docker, iCal, Web APIs
+* UiPath (Robotic Process Automation)
+* Git, GitLab, Team Foundation Server
 
 ### Frameworks
-ASP .Net Core, WPF, Windows Forms<br />
-Angular, ExtJs, Symfony<br />
-UiPath Activities<br />
+* ASP .Net Core, WPF, Windows Forms
+* Angular, ExtJs, Symfony
+* UiPath Activities
 
 ### Architectures
-Web API's, MVC, MVVM, RESTful
+* Web API's, MVC, MVVM, RESTful
 
 ## Soft skills
 * Experience in agile and classic development processes
