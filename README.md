@@ -10,6 +10,11 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 ## Hard skills
 
 ### Programming languages
+<div style="display: inline-block">
+  <div>a</div>
+  <div>b</div>
+</div>
+
 |                |Experience                      |
 |----------------|--------------------------------|
 |C#              |⭐⭐⭐⭐🌑                   |
