@@ -46,5 +46,5 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R0binSmit&theme=city_lights)
 
 
-![](https://img.shields.io/badge/Linked_In-3776AB?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/robin-smit-b0ba7317b/)
+<a href="https://www.linkedin.com/in/robin-smit-b0ba7317b">![](https://img.shields.io/badge/Linked_In-3776AB?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/robin-smit-b0ba7317b/)</a>
 ![](https://img.shields.io/badge/Xing-026466?style=for-the-badge&logo=xing&logoColor=white&link=https://www.xing.com/profile/Robin_Smit3/)
