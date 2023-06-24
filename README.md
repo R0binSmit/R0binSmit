@@ -41,11 +41,6 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 ![](https://img.shields.io/badge/Ext_Js-3776AB?style=for-the-badge)<br />
 ![](https://img.shields.io/badge/UiPath_Activities-FA4616?style=for-the-badge)
 
-## Soft skills
-* Experience in agile and classic development processes
-* Dedicated curious type
-* Direct communication tailored to the target group
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R0binSmit&theme=city_lights)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=R0binSmit&langs_count=5&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R0binSmit&theme=city_lights)
