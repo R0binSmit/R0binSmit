@@ -10,29 +10,36 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 ## Hard skills
 
 ### Programming languages
-|                |Experience                      |
-|----------------|--------------------------------|
-|![Csharp](https://img.shields.io/badge/-C%23-bd93f9?style=flat&logo=csharp&color=rgb(92,107,192))             |⭐⭐⭐⭐🌑                   |
-|![JavaScript](https://img.shields.io/badge/-JavaScript-bd93f9?style=flat&logo=javascript&color=rgb(228,161,38))      |⭐⭐⭐⭐🌑                   |
-|![PHP](https://img.shields.io/badge/-PHP-bd93f9?style=flat&logo=PHP&color=rgb(147,170,238))             |⭐⭐⭐🌑🌑                   |
-|![TypeScript](https://img.shields.io/badge/-TypeScript-bd93f9?style=flat&logo=typescript&color=white)      |⭐⭐⭐🌑🌑                   |
-|![Java](https://img.shields.io/badge/java-bd93f9?style=flat&logo=Java&logoColor=FFA518)            |⭐⭐🌑🌑🌑                   |
-|![Python](https://img.shields.io/badge/-Python-bd93f9?style=flat&logo=python&color=rgb(255,214,55))          |⭐🌑🌑🌑🌑                   |
+|                                                                                                                  |Experience    |
+|------------------------------------------------------------------------------------------------------------------|--------------|
+|![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)              |⭐⭐⭐⭐🌑       |
+|![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |⭐⭐⭐⭐🌑       |
+|![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)                      |⭐⭐⭐🌑🌑      |
+|![](https://img.shields.io/badge/-TypeScript-777BB4?style=for-the-badge&logo=typescript&color=white)    |⭐⭐⭐🌑🌑      |
+|![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)                   |⭐⭐🌑🌑🌑     |
+|![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)             |⭐🌑🌑🌑🌑    |
 
 ### Other technics
-* HTML, CSS, XML, JSON
-* MSSQL, Oracle
-* Docker, iCal, Web APIs
-* UiPath (Robotic Process Automation)
-* Git, GitLab, Team Foundation Server
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![](https://img.shields.io/badge/XML-1572B6?style=for-the-badge&logo=xml&logoColor=white) 
+![](https://img.shields.io/badge/JSON-ED8B00?style=for-the-badge&logo=json&logoColor=white)<br />
+![](https://img.shields.io/badge/MSSQL-3776AB?style=for-the-badge&logo=mssql&logoColor=white) 
+![](https://img.shields.io/badge/Oracle-EE0004?style=for-the-badge&logo=oracle&logoColor=white)<br />
+![](https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white) 
+![](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)<br />
+![](https://img.shields.io/badge/Git-DE4C36?style=for-the-badge&logo=git&logoColor=white) 
+![](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) 
+![](https://img.shields.io/badge/TFS-3776AB?style=for-the-badge&logo=tfs&logoColor=white)<br />
 
 ### Frameworks
-* ASP .Net Core, WPF, Windows Forms
-* Angular, ExtJs, Symfony
-* UiPath Activities
-
-### Architectures
-* Web API's, MVC, MVVM, RESTful
+![](https://img.shields.io/badge/.Net_Core-5C2D91?style=for-the-badge) 
+![](https://img.shields.io/badge/WPF-3776AB?style=for-the-badge)
+![](https://img.shields.io/badge/Windows_Forms-008272?style=for-the-badge)<br />
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
+![](https://img.shields.io/badge/Ext_Js-3776AB?style=for-the-badge)<br />
+![](https://img.shields.io/badge/UiPath_Activities-FA4616?style=for-the-badge)
 
 ## Soft skills
 * Experience in agile and classic development processes
@@ -41,4 +48,8 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R0binSmit&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R0binSmit&theme=city_lights)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R0binSmit&theme=city_lights)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=R0binSmit&langs_count=5&theme=tokyonight)
+
+
+![](https://img.shields.io/badge/Linked_In-3776AB?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/robin-smit-b0ba7317b/)
+![](https://img.shields.io/badge/Xing-026466?style=for-the-badge&logo=xing&logoColor=white&link=https://www.xing.com/profile/Robin_Smit3/)
