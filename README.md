@@ -47,8 +47,8 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 * Direct communication tailored to the target group
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R0binSmit&theme=city_lights)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=R0binSmit&langs_count=5&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R0binSmit&theme=city_lights)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=R0binSmit&langs_count=5&theme=tokyonight)
 
 
 ![](https://img.shields.io/badge/Linked_In-3776AB?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/robin-smit-b0ba7317b/)
