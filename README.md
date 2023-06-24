@@ -46,7 +46,7 @@ Despite the passage of time, my passion for computer technology remains unwaveri
 * Dedicated curious type
 * Direct communication tailored to the target group
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R0binSmit&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R0binSmit&theme=city_lights)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=R0binSmit&langs_count=5&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R0binSmit&theme=city_lights)
 
